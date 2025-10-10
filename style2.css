@@ -1,0 +1,21 @@
+body
+{
+background-color:#EEFFA8;
+font-family:Georgia,'Times New Roman',Times,serif,font-style:italic;
+}
+
+h1
+{
+text-align:center;
+color:#A16479;
+}
+
+section
+{
+background:#FFC066;
+}
+
+ul
+{
+list-style-type:square;
+}

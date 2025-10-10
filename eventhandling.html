@@ -1,0 +1,18 @@
+<html>
+<head>
+<script type="text/javascript">
+function over()
+{
+document.getElementById('key').innerHTML="onmouesover event occured";
+}
+function out()
+{
+document.getElementById('key').innerHTML="onmouseout event occured";
+}
+</script>
+</head>
+<body bgcolor="cyan">
+<h2 id="key" onmouseover="over()" onmouseout="out()">
+original Text</h2>
+</body>
+</html>
